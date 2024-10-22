@@ -1,1 +1,3 @@
 this is 1st file of master
+now it is updated in remote repo
+finalized
